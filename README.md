@@ -5,6 +5,4 @@
 - 🌙 Lua
 - 📜 Javascript
 - 🐘 PHP
-
-💼 Currently working on:  
-fuck all!!
+- 💨 Golang
